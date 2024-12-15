@@ -122,3 +122,5 @@ This project implements Named Entity Recognition (NER) for Ukrainian texts using
    - Enhance context understanding for ambiguous cases
 
 This implementation demonstrates the practical challenges and solutions in developing a NER system within specific computational constraints while maintaining high accuracy in morphologically rich languages like Ukrainian. The initial score of 0.34 provides a promising starting point for further development and optimization of the NER system.
+
+![image]( https://github.com/Katashynskyi/multiclass_NER_LLM_UKR/blob/main/media/result.jpg?raw=true)
